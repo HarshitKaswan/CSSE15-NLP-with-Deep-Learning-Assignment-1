@@ -22,6 +22,9 @@ The embeddings are reduced to 2D using **PCA** and plotted for visualization.
 
 ##  Repository Structure
 ├── cooccurrence_embeddings.ipynb # Main Python implementation
+
 ├── 2D Word Embeddings (Co-occurrence + PCA).png 
+
 ├── Co-occurrence Matrix Heatmap.png
+
 └── README.md
