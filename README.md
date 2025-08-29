@@ -21,3 +21,7 @@ The embeddings are reduced to 2D using **PCA** and plotted for visualization.
 ---
 
 ## 📂 Repository Structure
+├── cooccurrence_embeddings.py # Main Python implementation
+├── embeddings.png # Output plot (generated)
+├── report.tex # Overleaf report (LaTeX source)
+└── README.md # This file
